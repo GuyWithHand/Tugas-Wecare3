@@ -1,0 +1,80 @@
+body{
+background:url(../gambar/backgroundEXPLORE.jpg);
+background-size:650px 660px;
+background-repeat:no-repeat;
+margin:1 auto;
+opacity:0.9;
+border:#0066FF;
+box-sizing:50px;
+}
+
+.placeright{
+	margin-top:200px;
+	margin-left:250px;
+}
+
+.hrplace{
+	margin-right:60px;
+	margin-top:80px;
+	padding-left:350px;
+	margin-right:350px;
+}
+
+.split {
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left{
+	left:0;
+}
+
+.right{
+	right:0;
+}
+
+.text{
+	margin-left:200px;
+	margin-top:200px;
+}
+
+.link1{
+	margin-left:270;
+}
+
+.link2{
+	margin-left:255;
+}
+
+.link a{
+	color:#000;
+	text-decoration:none;
+}
+
+.link a:hover{
+	color:#00F;
+}
+
+.size{
+	font-size:45px;
+}
+
+.size2{
+	font-size:40px;
+	font-weight:normal;
+}
+
+.nav{
+	font-size:40px;
+	background:none;
+	margin-left:10px;
+}
+
+.nav a{
+	text-decoration:none;
+	color:#FFF;
+}

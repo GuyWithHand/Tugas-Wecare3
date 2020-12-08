@@ -1,0 +1,59 @@
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+body{
+background:url(1606364997580.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+margin:1 auto;
+opacity:0.9;
+border:#0066FF;
+box-sizing:50px;
+}
+
+.kepala{
+background:#FFF;
+font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+background-size:cover;
+padding:30px 10px;
+height:30px;
+}
+
+.lock{
+display:inline-block;
+width:20px;
+margin-top:1px;
+float:center;
+margin-right:40px;
+border:#999999;
+}
+
+.sign{
+	text-align:right;
+	padding:0px 1px;
+	height:1px;
+}
+
+.sign a{
+	color:#000;
+}
+
+.field{
+	margin:100px 450px 100px 450px;
+	background:rgba(255,255,255,0.5);
+	text-align:center;
+}
+
+.link a{
+	color:#000;
+	font-size:24px;
+}
+
+.home{
+	color:#999;
+}

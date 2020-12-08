@@ -1,0 +1,211 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+	padding-top:10px;
+	width:100%;
+	height:190px;
+	background:url(../gambar/ProductsHeader.png);
+	background-size: 1400px 250px;
+	background-repeat:no-repeat;
+}
+
+.contentfooter {
+	padding-top:10px;
+	width:100%;
+	height:190px;
+	background:url(../gambar/ProductFOOTER.png);
+	background-size: 1400px 190px;
+	background-repeat:no-repeat;
+}
+
+.layer1{
+	background:#D7DDCB;
+	height:300px;
+}
+
+.layer1 h1{
+	padding-top:250px;
+	padding-left:500px;
+}
+
+.layer1 font{
+	padding-top:100px;
+	padding-left:2px;
+}
+
+.layer3{
+	padding-top:180px;
+	margin-top:0px;
+	background:#D7DDCB;
+	height:300px;
+}
+
+.layer3 h1{
+	padding-top:230px;
+	padding-left:500px;
+}
+
+.layer3 font{
+	padding-top:100px;
+	padding-left:2px;
+}
+
+.layer5{
+	padding-top:180px;
+	margin-top:0px;
+	background:#D7DDCB;
+	height:300px;
+}
+
+.layer5 h1{
+	padding-top:230px;
+	padding-left:500px;
+}
+
+.layer5 font{
+	padding-top:100px;
+	padding-left:2px;
+}
+
+.layer7{
+	margin-top:-160px;
+	background:#D7DDCB;
+	height:500px;
+}
+
+.layer7 h1{
+	padding-top:230px;
+	padding-left:500px;
+}
+
+.layer7 font{
+	padding-top:100px;
+	padding-left:2px;
+}
+
+.layer2{
+	margin-top:200px;
+	background:#FFF;
+	height:300px;
+}
+
+.layer2 h1{
+	padding-left:50px;
+}
+
+.layer2 font{
+	padding-left:50px;
+}
+
+.layer4{
+	margin-top:290px;
+	background:#FFF;
+	height:300px;
+}
+
+.layer4 h1{
+	padding-left:50px;
+}
+
+.layer4 font{
+	padding-left:50px;
+}
+
+.layer6{
+	margin-top:270px;
+	background:#FFF;
+	height:300px;
+}
+
+.layer6 h1{
+	padding-left:50px;
+}
+
+.layer6 font{
+	padding-left:50px;
+}
+
+figure{
+float:left;
+width:290px;
+height:220px;
+padding:1px;
+margin:100px;
+border:1px solid #eeeeee;
+}
+
+.tempat2{
+float:right;
+width:290px;
+height:220px;
+padding:1px;
+margin:100px;
+border:1px solid #eeeeee;
+}
+
+.header {
+  padding: 2px;
+  background:#D7DDCB;
+}
+
+.footer{
+	margin-top:300px;
+	background:url(../gambar/backgroundEXPLORE.jpg);
+	height:300px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 10px;
+}
+
+.kekiri{
+	float:left;
+	padding-left:5px;
+	margin-right:20%;
+}
+
+.kekiri2{
+	margin-right:70%;
+}
+
+.turun{
+	padding-top:60px;
+}
+
+.navbar{
+	padding:8px;
+	overflow:hidden;
+	background-color:#D7DDCB;
+	position:fixed;
+	bottom:0;
+	width:100%;
+}
+
+.navbar font{
+	padding-left:5px;
+}
+
+.navbar img{
+	padding-top:2px;
+}
+
+.nav{
+	font-size:25px;
+	background:none;
+	margin-left:10px;
+}
+
+.nav a{
+	text-decoration:none;
+	color:#FFF;
+}
+
